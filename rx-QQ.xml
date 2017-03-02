@@ -1,0 +1,17 @@
+<prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
+	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.device.qfind.BlutoothLeService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.mobileqq.app.CoreService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.mobileqq.app.CoreService$KernelService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="cooperation.qzone.QzonePluginProxyService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.securemodule.impl.SecureService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.tmdownloader.TMAssistantDownloadService" sender="any" />
+	<prescription type="service" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWiFiAssistService" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.SecurityDetectActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.SecurityProtectActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.UpgradeActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="com.tencent.mobileqq.activity.UpgradeDetailActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWIFIMapproxyActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWiFiConnectProxyActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWiFiPluginInstallActivity" sender="any" />
+	<prescription type="activity" package="com.tencent.mobileqq" class="cooperation.qqwifi.QQWiFiProxyActivity" sender="any" />
+</prescriptions>
