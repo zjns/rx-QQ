@@ -1,7 +1,5 @@
 <prescriptions xmlns="http://greenify.github.io/schemas/prescription/v2">
 	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.device.qfind.BlutoothLeService" sender="any" />
-	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.mobileqq.app.CoreService" sender="any" />
-	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.mobileqq.app.CoreService$KernelService" sender="any" />
 	<prescription type="service" package="com.tencent.mobileqq" class="cooperation.qzone.QzonePluginProxyService" sender="any" />
 	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.securemodule.impl.SecureService" sender="any" />
 	<prescription type="service" package="com.tencent.mobileqq" class="com.tencent.tmdownloader.TMAssistantDownloadService" sender="any" />
